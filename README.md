@@ -1,16 +1,15 @@
-## Hi there 👋
+## Heya👋
 
-<!--
-**inoamedia/inoamedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm inoamedia, an artist and builder from the United States. 
 
-Here are some ideas to get you started:
+If I want to to make something, it's super likely that I will. I love to bring ideas and creativity to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At any given time I have a wide array of projects I am working on but here are some of my personal favorites: *gallery*
+
+Depending on what I am working on the main tech and tools I use are Clip Studio Paint, Procreate, Blender, ZBrush, Bambu Studio. I also have worked with Linux and Windows. 
+
+If you want to learn how I make things, commission me, or donate please follow the links below!
+*My store*
+*My business email*
+*My socials*
+*Donate*
