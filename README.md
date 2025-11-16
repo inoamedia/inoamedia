@@ -2,7 +2,7 @@
 
 I'm inoamedia, an artist and builder from the United States. 
 
-If I want to to make something, it's super likely that I will. I love to bring ideas and creativity to life.
+If I want to make something, it's super likely that I will. I love to bring ideas and creativity to life.
 
 At any given time I have a wide array of projects I am working on but here are some of my personal favorites: *gallery*
 
